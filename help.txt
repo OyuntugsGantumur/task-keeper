@@ -1,0 +1,15 @@
+The commands available in this program:
+- exit and e: exits the program
+- help and h: displays help text file
+- add-tag and atg: adds a new tag to the system; if there's none, press enter.
+- delete-tag and det: deletes a tag and all occurrences of that tag from the system
+- display-tags and dit: displays the current list of tags
+- display-tasks and dtsk: displays the current list of tasks
+- add-task and atk: adds a task to the list
+- search-tags and st: searches tasks with the tag entered and displays the list that can be further manipulated
+- search-dates and sd: searches tasks with the date or within the date range and displays the list
+- search-text and stxt: searches for the text in the text of each task and displays the result in a list
+- search-tags-dates and std: search for a combination of tags and dates and displays the result in a list
+- save-tasks and stk: saves the tasks and tags to a file
+- load-tasks and ltk: loads the requested file which must be in a valid format
+Remember: All dates entered must be in mm/dd/yyyy format and tags should include no space or punctuation. 

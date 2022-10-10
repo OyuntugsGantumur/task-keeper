@@ -1,0 +1,9 @@
+1 CS lab exam  : 10/05/2021 : lab cs exam
+2 take CS exam  : 05/05/2021 : urgent cs exam
+1 CS lab exam  : 10/05/2021 : lab cs exam
+-------------
+urgent
+lab
+cs
+exam
+
